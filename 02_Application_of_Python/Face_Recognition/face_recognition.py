@@ -7,7 +7,7 @@ face_cascade = cv2.CascadeClassifier(
 
 # Read the Input Image:-
 image = cv2.imread(
-    r"d:\Learning Python\02_Day2_Application_of_Python\Face_Recognition\1.jpg"
+    r"d:\Learning Python\02_Application_of_Python\Face_Recognition\1.jpg"
 )
 
 # Check If Image Loaded Successfully:-
